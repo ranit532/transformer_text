@@ -1,7 +1,25 @@
+# Core ML Libraries
+torch
+torchvision
+transformers
+scikit-learn
 numpy
 pandas
-scikit-learn
+
+# MLOps
 mlflow
+
+# Web Framework & Server
 fastapi
 uvicorn
-joblib
+
+# Plotting & Visualization
+matplotlib
+
+# Data Generation
+Faker
+Pillow
+
+# Utilities
+tqdm
+datasets
